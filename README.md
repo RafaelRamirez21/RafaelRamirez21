@@ -5,8 +5,7 @@
 ##### NOW
 
 - ✨Learning react;
-- 🇵🇹 Working in a movie app with react;
-- 🍑 
+- Working in a movie app with react;
 
 ##### BIO
 
