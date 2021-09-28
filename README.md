@@ -10,7 +10,7 @@
 ##### BIO
 
 - 🏢 I'm currently
-- ⚙️ I use daily: `.python`, `.js`, `.html`, `.css`, `.svg`
+- ⚙️ I use daily: `.python`, `.js`, `.html`, `.css`,`.reactjs` 
 - 🌱 Learning all about **Data science & AI **
 - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
 - 📫 Reach me: 
