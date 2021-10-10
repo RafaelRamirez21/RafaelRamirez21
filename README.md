@@ -4,8 +4,8 @@
 
 ##### NOW
 
-- ✨Learning react;
-- Working in a movie app with react;
+- ✨Learning AI;
+- Working on backend with django;
 
 ##### BIO
 
