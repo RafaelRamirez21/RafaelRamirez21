@@ -5,7 +5,7 @@
 ##### NOW
 
 - ✨Learning AI;
-- Working on backend with django;
+- Angular and .Net c#;
 
 ##### BIO
 
