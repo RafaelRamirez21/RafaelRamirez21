@@ -6,7 +6,6 @@ https://portfolio-rrrb.netlify.app/
 ##### NOW
 
 - ✨Learning AI;
-- Angular and .Net c#;
 
 ##### BIO
 
@@ -14,5 +13,5 @@ https://portfolio-rrrb.netlify.app/
 - ⚙️ I use daily: `.python`, `.js`, `.html`, `.css`,`.reactjs` 
 - 🌱 Learning all about **Data science & AI **
 - 💬 Ping me about **design**, **development**, **design thinking**
-- 📫 Reach me: rbdevcol@gmail.com
+- 📫 Reach me: rrramirezb25l@gmail.com
 - ⚡️ Fun fact: I'm a pug lover 
