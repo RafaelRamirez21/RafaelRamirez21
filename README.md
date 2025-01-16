@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Full-Stack Developer.
+#### I'm tech lover.
 https://portfolio-rrrb.netlify.app/
 
 ##### NOW
